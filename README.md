@@ -1,16 +1,14 @@
 
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />&nbsp;<b>Hi, I'm leechGamer</b>
 <br>
-
-<p aligh="left">
+<img align="right" src="https://user-images.githubusercontent.com/24830023/175980348-8d29d2e8-98f9-4ae1-af75-97278ff46b76.png" width="130" />
+<p align="left">
 <p>Hey there ! </br>
 I'm Backend Developer from seoul, korea 🇰🇷 <br>
 I love working on problems that might change people’s lives🏡<br>
 🏃‍♀️I'm on track for learning more about Java, Spring Boot.🏃‍♀️<br>
-
 </p>
-<img align="right" src="https://user-images.githubusercontent.com/24830023/175980348-8d29d2e8-98f9-4ae1-af75-97278ff46b76.png" width="200"/>
-
+</p>
 <br>
 
 <p align="center">
