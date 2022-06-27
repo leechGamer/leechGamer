@@ -1,7 +1,7 @@
 
 
 #### About me
-- I'm Backend developer from korea
+- I'm a backend developer from seoul, korea
 <br>
 
 <p align="center">
