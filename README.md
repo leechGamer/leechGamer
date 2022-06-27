@@ -18,7 +18,7 @@ I love working on problems that might change people’s lives🏡<br>
 <img src="https://img.shields.io/badge/laravel-FF4500?style=for-the-badge&logo=laravel&logoColor=white" align="left">
 <img src="https://img.shields.io/badge/php-9400D3?style=for-the-badge&logo=php&logoColor=white" align="left">
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" align="left">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" align="left" padding-right="5px">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" align="left">
 </p>
 
 <br>
