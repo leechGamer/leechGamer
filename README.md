@@ -16,12 +16,14 @@
 
 
 [![leechGamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechGamer&theme=vue)](https://github.com/leechGamer/github-readme-stats)
-<br>
+<br align="left">
 
 #### Connect With me
 <a href="https://velog.io/@searchortype" target="_blank">
-  <img src="https://img.shields.io/badge/blog-velog-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/blog-blue?style=for-the-badge" align="left"/>
 </a>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:searchortype24@gmail.com)](mailto:searchortype24@gmail.com)
 
 #### Recently working on. . .
 
