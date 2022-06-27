@@ -1,7 +1,16 @@
 
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />&nbsp;<b>Hi, I'm leechGamer</b>
+<br>
 
-#### About me
-- I'm a backend developer from seoul, korea
+<p aligh="left">
+<p>Hey there ! </br>
+I'm Backend Developer from seoul, korea 🇰🇷 <br>
+I love working on problems that might change people’s lives🏡<br>
+🏃‍♀️I'm on track for learning more about Java, Spring Boot.🏃‍♀️<br>
+
+</p>
+<img align="right" src="https://user-images.githubusercontent.com/24830023/175980348-8d29d2e8-98f9-4ae1-af75-97278ff46b76.png" width="200"/>
+
 <br>
 
 <p align="center">
@@ -11,6 +20,7 @@
 <img src="https://img.shields.io/badge/php-9400D3?style=for-the-badge&logo=php&logoColor=white" align="left">
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" align="left">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" align="left">
+</p>
 
 <br>
 
